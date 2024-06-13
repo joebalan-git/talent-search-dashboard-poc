@@ -1,0 +1,92 @@
+{
+    "columns": [{
+        "key": "jobRole",
+        "label": "Job Role",
+        "filter": true
+    }, {
+        "key": "skills",
+        "label": "Skills",
+        "filter": true
+    }, {
+        "key": "certification",
+        "label": "Certification",
+        "filter": true
+    }, {
+        "key": "experienceInYears",
+        "label": "Experience&nbsp;(Yrs)",
+        "filter": false
+    }, {
+        "key": "education",
+        "label": "Education",
+        "filter": true
+    }, {
+        "key": "availableDate",
+        "label": "Available Date",
+        "filter": false
+    }, {
+        "key": "location",
+        "label": "Location",
+        "filter": true
+    }, {
+        "key": "jobType",
+        "label": "Job Type",
+        "filter": true
+    }],
+    "data": [
+        {
+            "jobRole": "Tech Project Manager",
+            "skills": "IT Project Management",
+            "certification": "PMP",
+            "experienceInYears": "8",
+            "education": "Master of Computer Application",
+            "availableDate": "July",
+            "location": "Bangalore",
+            "jobType": "Remote"
+        }, {
+            "jobRole": "Tech Project Manager",
+            "skills": "IT Project Management",
+            "certification": "PMP",
+            "experienceInYears": "8",
+            "education": "Master of Computer Application",
+            "availableDate": "July",
+            "location": "Mysore",
+            "jobType": "Remote"
+        }, {
+            "jobRole": "Tech Project Manager",
+            "skills": "IT Project Management",
+            "certification": "PMP",
+            "experienceInYears": "8",
+            "education": "Master of Computer Application",
+            "availableDate": "July",
+            "location": "Bangalore",
+            "jobType": "Hybrid"
+        }, {
+            "jobRole": "Tech Project Manager",
+            "skills": "IT Project Management",
+            "certification": "PMP",
+            "experienceInYears": "8",
+            "education": "Master of Computer Application",
+            "availableDate": "July",
+            "location": "Mysore",
+            "jobType": "Hybrid"
+        }, {
+            "jobRole": "Associate Software Developer",
+            "skills": "Coding",
+            "certification": "",
+            "experienceInYears": "1",
+            "education": "Bachelor of Computer Application",
+            "availableDate": "August",
+            "location": "Bangalore",
+            "jobType": "In-Person"
+        }, {
+            "jobRole": "Associate Software Developer",
+            "skills": "Coding",
+            "certification": "",
+            "experienceInYears": "1",
+            "education": "Bachelor of Computer Application",
+            "availableDate": "August",
+            "location": "Mysore",
+            "jobType": "In-Person"
+        }
+    ]
+}
